@@ -1,0 +1,6 @@
+@FindSlowQueries_HostAddress = http://localhost:5043
+
+GET {{FindSlowQueries_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
